@@ -177,5 +177,67 @@
         "url": "/research/engaged-journalism-ukrainian-media-during-war-crh.html"
       }
     }
+  },
+  {
+    "id": "van-t-hof-freelancers-precarity-retelling",
+    "year": 2026,
+    "date": "2026-11-23",
+    "authors": {
+      "uk": [
+        "Ервін ван 'т Гоф (переказ ПроМедіа)"
+      ],
+      "en": [
+        "Erwin van 't Hof (retold by ProMedia)"
+      ],
+      "crh": [
+        "Erwin van 't Hof (ProMedia añlatması)"
+      ]
+    },
+    "publisher": "Амстердамський університет (дисертація); переказ — ГО «ПроМедіа», серія «Наука про медіа»",
+    "originalUrl": "https://dare.uva.nl/id/e932df68-5a0c-408b-ad3d-b2a0274e3635",
+    "tags": {
+      "uk": [
+        "переказ",
+        "Наука про медіа",
+        "фриланс",
+        "умови праці"
+      ],
+      "en": [
+        "retelling",
+        "Media Science",
+        "freelancing",
+        "working conditions"
+      ],
+      "crh": [
+        "añlatma",
+        "Mediya aqqında ilim",
+        "frilans",
+        "iş şaraitleri"
+      ]
+    },
+    "title": {
+      "uk": "Чому фрилансери по-різному переживають нестабільність",
+      "en": "Why freelance journalists experience precarity differently",
+      "crh": "Frilanserler turaqsızlıqnı ne içün türlü yaşaylar"
+    },
+    "summary": {
+      "uk": "Переказ дисертації Ервіна ван 'т Гофа (Амстердамський університет, 2026): як уявлення про «справжню» журналістику впливають на те, як фрилансери витримують нестабільність, і яку роль відіграють фонди.",
+      "en": "A retelling of Erwin van 't Hof's PhD thesis (University of Amsterdam, 2026): how ideas about “real” journalism shape the way freelancers cope with precarity, and the role of funders.",
+      "crh": "Erwin van 't Hof-nıñ dissertatsiyasınıñ añlatması (Amsterdam universiteti, 2026): «aqiqiy» jurnalistika aqqında tasavvurlar frilanserlerniñ turaqsızlıqqa nasıl dayanğanına tesir ete ve fondlar ne rol oynaylar."
+    },
+    "languages": {
+      "uk": {
+        "type": "full",
+        "url": "https://news.promedia.report/article/chomu-frylansery-po-riznomu-perezhyvaiut-nestabilnist"
+      },
+      "en": {
+        "type": "full",
+        "url": "https://news.promedia.report/en/article/chomu-frylansery-po-riznomu-perezhyvaiut-nestabilnist"
+      },
+      "crh": {
+        "type": "full",
+        "url": "https://news.promedia.report/crh/article/chomu-frylansery-po-riznomu-perezhyvaiut-nestabilnist"
+      }
+    }
   }
 ]

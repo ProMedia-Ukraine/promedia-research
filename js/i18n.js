@@ -53,7 +53,7 @@ const I18N_BASE = {
     hero: {
       eyebrow: "Tedqiqatlar kitaphanesi",
       title: "Mediya ve kommunikatsiyalar saasında tedqiqatlar",
-      lede: "Bu bölükte \"ProMedia\" içtimaiy teşkilâtı ve ortaq teşkilâtlarnıñ tedqiqatlarını, analitik işlerini ve ameliy qılavuzlarını derc etemiz.",
+      lede: "Bu bölükte ProMedia İCT ve ortaq teşkilâtlarnıñ tedqiqatlarını, analitik işlerini ve ameliy qılavuzlarını derc etemiz. Bunda ayrıca başqa müelliflerniñ mediya ve jurnalistika aqqında praktikler içün faydalı dep saylağan ilmiy işleriniñ añlaşılğan añlatmaları çıqa — «Mediya aqqında ilim» seriyası. Er bir añlatmada müellifni añamız ve asıl metinge bağlantı beremiz.",
     },
     list: { sectionLabel: "Episi tedqiqatlar", empty: "Tedqiqatlar yaqında peyda olacaq." },
     links: {
